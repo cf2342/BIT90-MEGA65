@@ -1,0 +1,19 @@
+# Generated Vivado projects and build products
+/BIT90-MEGA65-R3/
+/build/
+/helper/reports/
+.Xil/
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+*.bit
+*.dcp
+*.rpt
+*.rpx
+*.ltx
+*.backup.*
+*~
+.DS_Store
+Thumbs.db
